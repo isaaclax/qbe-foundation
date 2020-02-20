@@ -18,7 +18,6 @@
 
 .foundation-Card-body {
     padding: var(--foundation-card-body-padding);
-    vertical-align: bottom;
 }
 
 .foundation-Card-title {
@@ -27,7 +26,7 @@
     color: var(--foundation-card-product-title-color);
     font-weight: var(--foundation-card-product-title-font-weight);
     line-height: var(--foundation-card-product-title-line-height);
-    white-space: nowrap;
+    white-space: normal;
     overflow: hidden;
     text-overflow: ellipsis;
 }
@@ -39,7 +38,7 @@
     font-weight: var(--foundation-card-product-subtitle-font-weight);
     line-height: var(--foundation-card-product-subtitle-line-height);
     margin-top: var(--foundation-card-product-subtitle-margin-top);
-    white-space: nowrap;
+    white-space: normal;
     overflow: hidden;
-    text-overflow: ellipsis; 
+    text-overflow: ellipsis;
 }
