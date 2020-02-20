@@ -1,0 +1,17 @@
+:root {
+    --foundation-card-min-width: var(--foundation-global-dimension-static-size-300);
+    --foundation-card-margin: var(--foundation-global-dimesion-static-size-16);
+    --foundation-card-body-padding: var(--foundation-global-dimension-static-size-24);
+    --foundation-card-border-radius: var(--foundation-global-dimesion-static-size-0);
+    --foundation-card-product-title-font-family: var(--foundation-global-font-family-heading);
+    --foundation-card-product-title-font-size: var(--foundation-global-dimension-font-size-300);
+    --foundation-card-product-title-color: var(--foundation-global-color-static-white);
+    --foundation-card-product-title-font-weight: var(--foundation-global-font-weight-medium);
+    --foundation-card-product-title-line-height: var(--foundation-global-font-line-height-medium);
+    --foundation-card-product-subtitle-font-family: var(--foundation-global-font-family-subheading);
+    --foundation-card-product-subtitle-font-size: var(--foundation-global-dimension-font-size-50);
+    --foundation-card-product-subtitle-color: var(--foundation-global-color-static-white);
+    --foundation-card-product-subtitle-font-weight: var(--foundation-global-font-weight-semi-bold);
+    --foundation-card-product-subtitle-line-height: var(--foundation-global-font-line-height-large);
+    --foundation-card-product-subtitle-margin-top: var(--foundation-global-dimension-static-size-8);
+}

@@ -1,0 +1,42 @@
+.foundation-Card {
+    position: relative;
+  
+    display: inline-flex;
+    flex-direction: column;
+  
+    box-sizing: border-box;
+    min-width: var(--foundation-card-min-width);
+    
+    margin: var(--foundation-card-margin);
+  
+    border-radius: var(--foundation-card-border-radius);
+  
+    text-decoration: none;
+}
+
+.foundation-Card-body {
+    padding: var(--foundation-card-body-padding);
+}
+
+.foundation-Card-title {
+    font-family: var(--foundation-card-product-title-font-family);
+    font-size: var(--foundation-card-product-title-font-size);
+    color: var(--foundation-card-product-title-color);
+    font-weight: var(--foundation-card-product-title-font-weight);
+    line-height: var(--foundation-card-product-title-line-height);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.foundation-Card-subtitle {
+    font-family: var(--foundation-card-product-subtitle-font-family);
+    font-size: var(--foundation-card-product-subtitle-font-size);
+    color: var(--foundation-card-product-subtitle-color);
+    font-weight: var(--foundation-card-product-subtitle-font-weight);
+    line-height: var(--foundation-card-product-subtitle-line-height);
+    margin-top: var(--foundation-card-product-subtitle-margin-top);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}

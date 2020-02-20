@@ -1,0 +1,38 @@
+:root {
+    --foundation-alias-border-size-skinny: var(--foundation-global-dimension-static-size-1);
+    --foundation-alias-border-size-standard: var(--foundation-global-dimension-static-size-2);
+    --foundation-alias-border-size-thick: var(--foundation-global-dimension-static-size-3);
+
+    --foundation-alias-hero-heading-font-family: var(--foundation-global-font-family-heading);
+    --foundation-alias-hero-heading-font-size: var(--foundation-global-dimension-font-size-700);
+    --foundation-alias-hero-heading-font-weight: var(--foundation-global-font-weight-medium);
+    --foundation-alias-hero-heading-line-height: var(--foundation-global-line-height-small);
+    --foundation-alias-hero-heading-letter-spacing: var(--foundation-global-letter-spacing-medium);
+    --foundation-alias-hero-heading-margin-bottom: var(--foundation-global-dimension-static-size-20);
+
+    --foundation-alias-hero-subheading-font-family: var(--foundation-global-font-family-subheading);
+    --foundation-alias-hero-subheading-font-size: var(--foundation-global-dimension-font-size-100);
+    --foundation-alias-hero-subheading-font-weight: var(--foundation-global-font-weight-regular);
+    --foundation-alias-hero-subheading-line-height: var(--foundation-global-font-line-height-large);
+    --foundation-alias-hero-subheading-margin-bottom: var(--foundation-global-dimension-static-size-0);
+
+    --foundation-alias-banner-heading-font-family: var(--foundation-global-font-family-heading);
+    --foundation-alias-banner-heading-font-size: var(--foundation-global-dimension-font-size-400);
+    --foundation-alias-banner-heading-font-weight: var(--foundation-global-font-weight-medium);
+    --foundation-alias-banner-heading-line-height: var(--foundation-global-font-line-height-large);
+    --foundation-alias-banner-heading-margin-bottom: var(--foundation-global-dimension-static-size-12);
+
+    --foundation-alias-banner-subheading-font-family: var(--foundation-global-font-family-heading);
+    --foundation-alias-banner-subheading-font-size: var(--foundation-global-dimension-font-size-200);
+    --foundation-alias-banner-subheading-font-weight: var(--foundation-global-font-weight-medium);
+    --foundation-alias-banner-subheading-line-height: var(--foundation-global-font-line-height-medium);
+    --foundation-alias-banner-subheading-margin-bottom: var(--foundation-global-dimension-static-size-0);
+
+    --foundation-alias-font-family-body: var(--foundation-global-font-family-body);
+    --foundation-alias-line-height-body: var(--foundation-global-font-line-height-large);
+    --foundation-alias-font-weight-body: var(--foundation-global-font-weight-semi-regular);
+    --foundation-alias-font-weight-body-strong: var(--foundation-global-font-weight-semi-bold);
+    --foundation-alias-font-size-body: var(--foundation-global-dimension-font-size-100);
+    --foundation-alias-font-size-body-large: var(--foundation-global-dimension-font-size-200);
+    --foundation-alias-font-size-body-small: var(--foundation-global-dimension-font-size-75);
+}

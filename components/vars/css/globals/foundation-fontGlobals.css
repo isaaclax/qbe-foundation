@@ -1,0 +1,95 @@
+@font-face {
+    font-family: 'Stag';
+    font-weight: 500;
+    font-display: swap;
+    src: url("//fonts/Stag-Medium.otf") format("opentype");
+  }
+  
+@font-face {
+    font-family: 'Stag';
+    font-weight: 700;
+    font-display: swap;
+    src: url("//fonts/Stag-Bold.otf") format("opentype");
+}
+  
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("//fonts/Inter-Regular.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-display: swap;
+    src: url("//fonts/Inter-Italic.otf") format("opentype");
+}
+  
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url("//fonts/Inter-Medium.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 500;
+    font-display: swap;
+    src: url("//fonts/Inter-MediumItalic.otf") format("opentype");
+}
+  
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url("//fonts/Inter-SemiBold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 600;
+    font-display: swap;
+    src: url("//fonts/Inter-SemiBoldItalic.otf") format("opentype");
+}
+  
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("//fonts/Inter-Bold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-display: swap;
+    src: url("//fonts/Inter-BoldItalic.otf") format("opentype");
+}
+
+:root {
+    --foundation-global-font-family-heading: 'Stag';
+    --foundation-global-font-family-subheading: 'Inter';
+    --foundation-global-font-family-body: 'Inter';
+    --foundation-global-font-weight-regular: 400;
+    --foundation-global-font-weight-medium: 500;
+    --foundation-global-font-weight-semi-bold: 600;
+    --foundation-global-font-weight-bold: 700;
+    --foundation-global-font-style-regular: normal;
+    --foundation-global-font-style-italic: italic;
+    --foundation-global-font-letter-spacing-none: 0;
+    --foundation-global-font-letter-spacing-small: 1;
+    --foundation-global-font-letter-spacing-medium: 1.4;
+    --foundation-global-font-line-height-large: 1.5;
+    --foundation-global-font-line-height-medium: 1.4;
+    --foundation-global-font-line-height-small: 1.2;
+}

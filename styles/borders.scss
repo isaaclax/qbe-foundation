@@ -1,0 +1,72 @@
+@import "colors.scss";
+
+$skinny-border : 1px;
+$standard-border : 2px;
+$thick-border : 3px;
+
+$border-primary-30-skinny : $skinny-border solid $color-primary-30;
+$border-primary-30-standard : $standard-border solid $color-primary-30;
+$border-primary-30-thick : $thick-border solid $color-primary-30;
+$border-primary-60-skinny : $skinny-border solid $color-primary-60;
+$border-primary-60-standard : $standard-border solid $color-primary-60;
+$border-primary-60-thick : $thick-border solid $color-primary-60;
+$border-primary-90-skinny : $skinny-border solid $color-primary-90;
+$border-primary-90-standard : $standard-border solid $color-primary-90;
+$border-primary-90-thick : $thick-border solid $color-primary-90;
+
+$border-secondary-30-skinny : $skinny-border solid $color-secondary-30;
+$border-secondary-30-standard : $standard-border solid $color-secondary-30;
+$border-secondary-30-thick : $thick-border solid $color-secondary-30;
+$border-secondary-60-skinny : $skinny-border solid $color-secondary;
+$border-secondary-60-standard : $standard-border solid $color-secondary;
+$border-secondary-60-thick : $thick-border solid $color-secondary;
+$border-secondary-90-skinny : $skinny-border solid $color-secondary-90;
+$border-secondary-90-standard : $standard-border solid $color-secondary-90;
+$border-secondary-90-thick : $thick-border solid $color-secondary-90;
+
+$border-tertiary-30-skinny : $skinny-border solid $color-tertiary-30;
+$border-tertiary-30-standard : $standard-border solid $color-tertiary-30;
+$border-tertiary-30-thick : $thick-border solid $color-tertiary-30;
+$border-tertiary-60-skinny : $skinny-border solid $color-tertiary-60;
+$border-tertiary-60-standard : $standard-border solid $color-tertiary-60;
+$border-tertiary-60-thick : $thick-border solid $color-tertiary-60;
+$border-tertiary-90-skinny : $skinny-border solid $color-tertiary-90;
+$border-tertiary-90-standard : $standard-border solid $color-tertiary-90;
+$border-tertiary-90-thick : $thick-border solid $color-tertiary-90;
+
+$border-black-skinny : $skinny-border solid $color-black;
+$border-black-standard : $standard-border solid $color-black;
+$border-black-thick : $thick-border solid $color-black;
+$border-white-skinny : $skinny-border solid $color-white;
+$border-white-standard : $standard-border solid $color-white;
+$border-white-thick : $thick-border solid $color-white;
+
+$border-grey-20-skinny : $skinny-border solid $color-grey-20;
+$border-grey-20-standard : $standard-border solid $color-grey-20;
+$border-grey-20-thick : $thick-border solid $color-grey-20;
+$border-grey-40-skinny : $skinny-border solid $color-grey-40;
+$border-grey-40-standard : $standard-border solid $color-grey-40;
+$border-grey-40-thick : $thick-border solid $color-grey-40;
+$border-grey-60-skinny : $skinny-border solid $color-grey-60;
+$border-grey-60-standard : $standard-border solid $color-grey-60;
+$border-grey-60-thick : $thick-border solid $color-grey-60;
+
+$border-accent-purple-skinny : $skinny-border solid $color-accent-purple;
+$border-accent-purple-standard : $standard-border solid $color-accent-purple;
+$border-accent-purple-thick : $thick-border solid $color-accent-purple;
+$border-accent-green-skinny : $skinny-border solid $color-accent-green;
+$border-accent-green-standard : $standard-border solid $color-accent-green;
+$border-accent-green-thick : $thick-border solid $color-accent-green;
+$border-accent-blue-skinny : $skinny-border solid $color-accent-blue;
+$border-accent-blue-standard : $standard-border solid $color-accent-blue;
+$border-accent-blue-thick : $thick-border solid $color-accent-blue;
+
+$border-feedback-success-skinny : $skinny-border solid $color-feedback-success;
+$border-feedback-success-standard : $standard-border solid $color-feedback-success;
+$border-feedback-success-thick : $thick-border solid $color-feedback-success;
+$border-feedback-warning-skinny : $skinny-border solid $color-feedback-warning;
+$border-feedback-warning-standard : $standard-border solid $color-feedback-warning;
+$border-feedback-warning-thick : $thick-border solid $color-feedback-warning;
+$border-feedback-error-skinny : $skinny-border solid $color-feedback-error;
+$border-feedback-error-standard : $standard-border solid $color-feedback-error;
+$border-feedback-error-thick : $thick-border solid $color-feedback-error;

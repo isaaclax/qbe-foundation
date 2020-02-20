@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "shadows.scss",
+        "colors.scss"
+    ],
+    "names": [],
+    "file": "shadows.css"
+}
