@@ -1,6 +1,6 @@
 :root {
     --foundation-card-min-width: var(--foundation-global-dimension-static-size-300);
-    --foundation-card-margin: var(--foundation-global-dimesion-static-size-16);
+    --foundation-card-margin: var(--foundation-global-dimension-static-size-16);
     --foundation-card-body-padding: var(--foundation-global-dimension-static-size-24);
     --foundation-card-border-radius: var(--foundation-global-dimesion-static-size-0);
     --foundation-card-product-title-font-family: var(--foundation-global-font-family-heading);

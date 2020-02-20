@@ -2,14 +2,15 @@
     font-family: 'Stag';
     font-weight: 500;
     font-display: swap;
-    src: url("//fonts/Stag-Medium.otf") format("opentype");
+    src: url("/fonts/Stag-Medium.otf") format("opentype");
+    
   }
   
 @font-face {
     font-family: 'Stag';
     font-weight: 700;
     font-display: swap;
-    src: url("//fonts/Stag-Bold.otf") format("opentype");
+    src: url("/fonts/Stag-Bold.otf") format("opentype");
 }
   
 @font-face {
@@ -17,7 +18,7 @@
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url("//fonts/Inter-Regular.otf") format("opentype");
+    src: url("/fonts/Inter-Regular.otf") format("opentype");
 }
 
 @font-face {
@@ -25,7 +26,7 @@
     font-style: italic;
     font-weight: 400;
     font-display: swap;
-    src: url("//fonts/Inter-Italic.otf") format("opentype");
+    src: url("/fonts/Inter-Italic.otf") format("opentype");
 }
   
 @font-face {
@@ -33,7 +34,7 @@
     font-style: normal;
     font-weight: 500;
     font-display: swap;
-    src: url("//fonts/Inter-Medium.otf") format("opentype");
+    src: url("/fonts/Inter-Medium.otf") format("opentype");
 }
 
 @font-face {
@@ -41,7 +42,7 @@
     font-style: italic;
     font-weight: 500;
     font-display: swap;
-    src: url("//fonts/Inter-MediumItalic.otf") format("opentype");
+    src: url("/fonts/Inter-MediumItalic.otf") format("opentype");
 }
   
 @font-face {
@@ -49,7 +50,7 @@
     font-style: normal;
     font-weight: 600;
     font-display: swap;
-    src: url("//fonts/Inter-SemiBold.otf") format("opentype");
+    src: url("/fonts/Inter-SemiBold.otf") format("opentype");
 }
 
 @font-face {
@@ -57,7 +58,7 @@
     font-style: italic;
     font-weight: 600;
     font-display: swap;
-    src: url("//fonts/Inter-SemiBoldItalic.otf") format("opentype");
+    src: url("/fonts/Inter-SemiBoldItalic.otf") format("opentype");
 }
   
 @font-face {
@@ -65,7 +66,7 @@
     font-style: normal;
     font-weight: 700;
     font-display: swap;
-    src: url("//fonts/Inter-Bold.otf") format("opentype");
+    src: url("/fonts/Inter-Bold.otf") format("opentype");
 }
 
 @font-face {
@@ -73,7 +74,7 @@
     font-style: italic;
     font-weight: 700;
     font-display: swap;
-    src: url("//fonts/Inter-BoldItalic.otf") format("opentype");
+    src: url("/fonts/Inter-BoldItalic.otf") format("opentype");
 }
 
 :root {
