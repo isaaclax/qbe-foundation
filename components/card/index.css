@@ -18,6 +18,7 @@
 
 .foundation-Card-body {
     padding: var(--foundation-card-body-padding);
+    vertical-align: bottom;
 }
 
 .foundation-Card-title {
